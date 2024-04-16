@@ -1,0 +1,195 @@
+{
+  "allcommand": [
+    "Ig"
+  ],
+  "anonymous": [],
+  "blockcmd": [],
+  "banned": [],
+  "premium": [],
+  "claim": [],
+  "data": [
+    {
+      "name": "premium",
+      "id": []
+    },
+    {
+      "name": "commands",
+      "id": []
+    },
+    {
+      "name": "limit",
+      "id": []
+    }
+  ],
+  "sewa": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "62895632370876",
+      "expired": 1711842746597
+    }
+  ],
+  "dashboard": [
+    {
+      "cmd": "Ig",
+      "succes": 1,
+      "failed": 0
+    }
+  ],
+  "listerror": [],
+  "hittoday": [
+    {
+      "id": "run",
+      "expired": 1711929891588,
+      "totalcmd": 1
+    }
+  ],
+  "clearchat": [],
+  "users": {
+    "6288294724703@s.whatsapp.net": {
+      "name": "Navy Parkinson",
+      "id": "6288294724703",
+      "date": "30 Maret 2024",
+      "exp": 100,
+      "level": 1,
+      "hit": 1,
+      "balance": 1000,
+      "limit": 30,
+      "glimit": 30,
+      "serial": "AYCV",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 0,
+      "grade": "Newbie",
+      "autolevelup": false
+    }
+  },
+  "chats": {
+    "120363180007756496@g.us": {
+      "name": "୧⍤⃝💐 𝘙𝘢𝘯𝘨𝘦𝘭 𝘉𝘰𝘵𝘻  ˃̵ᴗ˂̵",
+      "add": 0,
+      "detect": true,
+      "welcome": true,
+      "sWelcome": true,
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "desc": true,
+      "descUpdate": true,
+      "autostiker": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "antidelete": false,
+      "antiasing": false,
+      "banchat": false,
+      "antitoxic": true,
+      "expired": 0,
+      "antibadword": true,
+      "antispam": true,
+      "antitroli": false,
+      "antivirtex": false,
+      "antiwame": false,
+      "antihidetag": false,
+      "viewonce": true,
+      "nsfw": false,
+      "clear": false,
+      "clearTime": 0
+    },
+    "120363163926612000@g.us": {
+      "name": "𝅄 ֹ 🐰  ׅ  bֺυִnnꪱᧉִ ᥣᦅng𝗍ᧉִ𝗄᥍  ֢  ୬",
+      "add": 0,
+      "detect": true,
+      "welcome": true,
+      "sWelcome": true,
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "desc": true,
+      "descUpdate": true,
+      "autostiker": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "antidelete": false,
+      "antiasing": false,
+      "banchat": false,
+      "antitoxic": true,
+      "expired": 0,
+      "antibadword": true,
+      "antispam": true,
+      "antitroli": false,
+      "antivirtex": false,
+      "antiwame": false,
+      "antihidetag": false,
+      "viewonce": true,
+      "nsfw": false,
+      "clear": false,
+      "clearTime": 0
+    },
+    "120363045735495199@g.us": {
+      "name": "𝚂𝚊𝚗𝚣 ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ",
+      "add": 0,
+      "detect": true,
+      "welcome": true,
+      "sWelcome": true,
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "desc": true,
+      "descUpdate": true,
+      "autostiker": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "antidelete": false,
+      "antiasing": false,
+      "banchat": false,
+      "antitoxic": true,
+      "expired": 0,
+      "antibadword": true,
+      "antispam": true,
+      "antitroli": false,
+      "antivirtex": false,
+      "antiwame": false,
+      "antihidetag": false,
+      "viewonce": true,
+      "nsfw": false,
+      "clear": false,
+      "clearTime": 0,
+      "stiker": false,
+      "antiLink": true,
+      "antiBadword": true
+    },
+    "120363112543921071@g.us": {
+      "name": "YT : ZYKO MD OFFICIAL ✅",
+      "add": 0,
+      "detect": true,
+      "welcome": true,
+      "sWelcome": true,
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "desc": true,
+      "descUpdate": true,
+      "autostiker": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "antidelete": false,
+      "antiasing": false,
+      "banchat": false,
+      "antitoxic": true,
+      "expired": 0,
+      "antibadword": true,
+      "antispam": true,
+      "antitroli": false,
+      "antivirtex": false,
+      "antiwame": false,
+      "antihidetag": false,
+      "viewonce": true,
+      "nsfw": false,
+      "clear": false,
+      "clearTime": 0
+    }
+  },
+  "settings": {},
+  "kickon": {},
+  "others": {}
+}

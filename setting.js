@@ -16,15 +16,15 @@ global.sessionName = 'session' //hati hati nanti error
 global.packName = "©Sticker" //buat stiker
 global.authorName = "Created By Maleficent MD " //ini juga buat stiker
 global.namastore = "Fiibotz Store" // terserah
-global.nodana = "" //nomor kamu
-global.nogopay = "-" //nomor kamu
-global.noovo = "-" // yang inu juga
+global.nodana = "08984116728" //nomor kamu
+global.nogopay = "0895615063060" //nomor kamu
+global.noovo = "08984116728" // yang inu juga
 global.qris = "-" // ini juga
 global.TextT = `Fiibotz` //terserah
 global.textT = `Fiibotz` //bodoamat
-global.sgc = ' '
-global.syt = ''
-global.sig = ''
+global.sgc = 'https://chat.whatsapp.com/F8XgPV6AUdF0oxut5bC97C'
+global.syt = 'https://youtube.com/@alfisyahrial9029'
+global.sig = 'https://instagram.com/alfisyahriaal'
 // --------- SETTING OWNER -------- //
 
 // --------- BIARIN AJA -------- //

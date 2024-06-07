@@ -683,7 +683,7 @@ console.log(`Unknown DisconnectReason: ${reason}|${connection}`);
 connectToWhatsApp();
   }
 } else if (connection === "open") {
-  fii.sendMessage('62895615063060' + "@s.whatsapp.net", { text: `Hai Developer Bot telah On Kembali 
+  fii.sendMessage('6285655620413' + "@s.whatsapp.net", { text: `Hai Developer Bot telah On Kembali 
 
 ` });
 }
